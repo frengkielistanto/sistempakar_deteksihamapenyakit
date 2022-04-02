@@ -17159,7 +17159,7 @@ a.text-dark:focus {
   --footer-bg:#09080e;
 }
 
-[data-theme="light"] {
+[data-theme="lights"] {
   --primary-color: #eb2226;
   --secondary-color: #213364;
   --font-color:#777;
