@@ -639,8 +639,11 @@ pre code {
   max-height: 340px;
   overflow-y: scroll;
 }
-
+body{
+  background-color: blue!important;
+}
 .container {
+  
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
