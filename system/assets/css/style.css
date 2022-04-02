@@ -1,0 +1,52 @@
+body {
+	background-color: #ffc107;
+}
+
+.col-sm {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 30%;
+	padding: 20px;
+}
+
+
+@media screen and (max-width: 900px) {
+		.col-sm {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		transform: translate(-50%, -50%);
+		width: 50%;
+		padding: 20px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+		.col-sm {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		transform: translate(-50%, -50%);
+		width: 80%;
+		padding: 20px;
+	}
+}
+
+/* mengatur warna backgroud dan padding pada tag body bagian atas agar form tidak menempel diatas */
+body{
+    background: #383a3d;
+    padding-top: 10vh;  
+}
+ 
+/* mengatur warna backgroud form */
+form{
+    background: #fff;
+}
+ 
+/* mengatur border dan padding class form-container */
+.form-container{
+    border-radius: 10px;
+    padding: 30px;
+}
