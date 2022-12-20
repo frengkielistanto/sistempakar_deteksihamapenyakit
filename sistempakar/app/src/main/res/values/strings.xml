@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">sistempakar</string>
+    <string name="lewati_perkenalan">Lewati Perkenalan</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="kesehatan">Kesehatan</string>
+    <string name="kesehatan_desc">Lebih mudah dalam merawat tanaman jagung \n dari serangan hama dan penyakit</string>
+    <string name="deteksi">Deteksi</string>
+    <string name="deteksi_desc">Lebih mudah dalam mendeteksi \n dari serangan hama dan penyakit \n pada tanaman jagung</string>
+    <string name="jagung">Jagung</string>
+    <string name="jagung_ilmiah">zea mays</string>
+    <string name="jagung_desc"> Jagung adalah salah satu tanaman pangan penghasil karbohidrat yang terpenting di dunia, selain gandum dan padi
+    Perawatan tanaman jagung sangat penting dilakukan untuk mendapatkan pertumbuhan tanaman yang optimal. Perawatan dan pemeliharaan ini mulai dilakukan, sejak tanaman jagung masih dalam fase bibit hingga mencapai dewasa. Perawatan tanaman jagung sangat penting dilakukan untuk mendapatkan pertumbuhan tanaman yang optimal. Perawatan dan pemeliharaan ini mulai dilakukan, sejak tanaman jagung masih dalam fase bibit hingga mencapai dewasa</string>
+    <string name="spk">Sistem Pakar Deteksi Hama dan Penyakit </string>
+    <string name="spk_info">aplikasi yang dapat membantu petani jagung dan penyuluh dalam menentukan hama dan penyakit beserta solusi dengan mengamati gejala gejala yang ada</string>
+    <string name="nama">Frengki E \nTeknik Informatika \nTeknologi Informasi \nPoliteknik Negeri Jember</string>
+    <string name="oleh">dibuat oleh</string>
+    <string name="konsutasi">Konsultasi</string>
+    <string name="hasil">Hasil</string>
+    <string name="hitung">Hitung</string>
+    <string name="nama_hama_penyakit">Nama Hama dan Penyakit</string>
+    <string name="info">Info</string>
+    <string name="deschome">- Klik ikon home jika anda ingin mengetahui informasi yang berupa deskripsi dan list hama penyakit yang menyerang pada jagung</string>
+    <string name="desckonsultasi">- Klik ikon konsultasi jika anda ingin melakukan konsultasi mengenai hama penyakit yang pada jagung anda</string>
+    <string name="descinfo">- Klik ikon info jika anda ingin mengetahui informasi mengenai aplikasi dan pembuat aplikasi</string>
+    <string name="langkahkonsultasi">- Tekan ikon konsultasi \n - Menampilkan list gejala \n - Tekan pilih pada masing-masing gejala, lalu pilih sesuai tingkat keyakinan \n - Apabila selesai tekan hitung </string>
+    <string name="cara_menggunakan">Langkah langkah mengunakan aplikasi</string>
+    <string name="carakonsultasi">Cara konsultasi</string>
+    <string name="kosong">Analisis belum tersedia, untuk lebih jelasnya konsultasikan ke penyuluh</string>
+    <string name="dibuat">Dibuat oleh:</string>
+    <string-array name="planets_array">
+        <item>pilih</item>
+        <item>tidak</item>
+        <item>tidak tahu</item>
+        <item>sedikit yakin</item>
+        <item>cukup yakin</item>
+        <item>yakin</item>
+        <item>sangat yakin</item>
+
+    </string-array>
+</resources>
